@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtResult" type="id" />
+    <item name="scanButton" type="id" />
+    <item name="resultTextView" type="id" />
+    <item name="seekBar1" type="id" />
+    <item name="seekB" type="id" />
+    <item name="button1" type="id" />
+    <item name="forceManual" type="id" />
+    <item name="gatherExpiry" type="id" />
+    <item name="scanExpiry" type="id" />
+    <item name="gatherCvv" type="id" />
+    <item name="gatherPostalCode" type="id" />
+    <item name="postalCodeNumericOnly" type="id" />
+    <item name="gatherCardholderName" type="id" />
+    <item name="suppressManual" type="id" />
+    <item name="suppressConfirmation" type="id" />
+    <item name="detectOnly" type="id" />
+    <item name="useCardIOLogo" type="id" />
+    <item name="showPayPalActionBarIcon" type="id" />
+    <item name="keepApplicationTheme" type="id" />
+    <item name="languageSpinner" type="id" />
+    <item name="unblurEdit" type="id" />
+    <item name="resultCardTypeImage" type="id" />
+    <item name="resultImage" type="id" />
+    <item name="recordingSpinner" type="id" />
+    <item name="resultText" type="id" />
+</resources>
