@@ -49,7 +49,7 @@ public class GenericStringListAdapter extends ArrayAdapter<String> {
     /**
      * this is for the main non-popped up view
      */
-    @Override
+  /*  @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         View v = convertView;
         if (v == null) {
@@ -61,7 +61,7 @@ public class GenericStringListAdapter extends ArrayAdapter<String> {
         String s = m_list.get(position);
         ((TextView) v.findViewById(R.id.text)).setText(s);
         return v;
-    }
+    }*/
 
     public int getIndexForName(String name) {
         int found = m_list.indexOf(name);
